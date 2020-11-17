@@ -1,2 +1,2 @@
 # MIR_Fall2020
- NYU Music Technology MIR Homework for Fall 2020 Semester
+ My original MIR Homework for Fall 2020 Semester at NYU Music Technology program.
